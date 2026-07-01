@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 220" role="img" aria-label="Training equipment">
+  <rect width="320" height="220" rx="22" fill="#1b2e34"/>
+  <path d="M69 169h182l-21-98H90l-21 98Z" fill="#c6f04b"/>
+  <path d="M104 71 88 169M132 71l-8 98M160 71v98M188 71l8 98M216 71l16 98" stroke="#163626" stroke-width="7" stroke-linecap="round"/>
+  <path d="M77 96h166M72 126h176M66 157h188" stroke="#163626" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="251" cy="53" r="28" fill="#f2c94c"/>
+  <circle cx="68" cy="51" r="18" fill="#f7faf7"/>
+</svg>

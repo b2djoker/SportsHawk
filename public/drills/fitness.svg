@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 220" role="img" aria-label="Fitness drill">
+  <rect width="360" height="220" rx="22" fill="#1b2934"/>
+  <path d="M89 164h180" stroke="#c6f04b" stroke-width="11" stroke-linecap="round"/>
+  <path d="M111 151 143 72l37 44 34-58 36 93" fill="none" stroke="#f7faf7" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="143" cy="62" r="18" fill="#f2c94c"/>
+  <circle cx="251" cy="150" r="18" fill="#f2c94c"/>
+</svg>

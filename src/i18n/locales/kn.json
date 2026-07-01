@@ -1,0 +1,102 @@
+{
+  "app": {
+    "name": "SportsHawk",
+    "tagline": "ತರಬೇತಿ ಮಾಡಿ · ಸ್ಕೋರ್ ಮಾಡಿ · ಸ್ಕೌಟ್ ಆಗಿ",
+    "playerDevelopment": "ಗ್ರಾಸ್‌ರೂಟ್ಸ್ ಆಟಗಾರರ ಅಭಿವೃದ್ಧಿ",
+    "coachWorkspace": "ಕೋಚ್ ಮತ್ತು ಸ್ಕೌಟ್ ಕಾರ್ಯಸ್ಥಳ"
+  },
+  "language": {
+    "select": "ಭಾಷೆ ಆಯ್ಕೆಮಾಡಿ",
+    "english": "ಇಂಗ್ಲಿಷ್",
+    "hindi": "ಹಿಂದಿ",
+    "bengali": "ಬೆಂಗಾಳಿ",
+    "malayalam": "ಮಲಯಾಳಂ",
+    "tamil": "ತಮಿಳು",
+    "telugu": "ತೆಲುಗು",
+    "kannada": "ಕನ್ನಡ",
+    "assamese": "ಅಸ್ಸಾಮಿ",
+    "odia": "ಒಡಿಯಾ"
+  },
+  "landing": {
+    "chooseType": "ಖಾತೆ ಪ್ರಕಾರ ಆಯ್ಕೆಮಾಡಿ",
+    "title": "SportsHawk ನಲ್ಲಿ ಆಟಗಾರರು ಮತ್ತು ಕೋಚ್‌ಗಳಿಗೆ ಪ್ರತ್ಯೇಕ ಸ್ಥಳಗಳಿವೆ.",
+    "subtitle": "ಈ ಪ್ರತ್ಯೇಕ ಪಾತ್ರಗಳಿಗೆ ಪ್ರತ್ಯೇಕ onboarding, home screens, navigation ಮತ್ತು product access ಇವೆ.",
+    "playerCard": "ಆಟಗಾರ",
+    "playerCta": "ಆಟಗಾರ ಖಾತೆ ರಚಿಸಿ",
+    "playerSub": "ಪ್ರತಿದಿನ ತರಬೇತಿ ಮಾಡಿ, drills upload ಮಾಡಿ, points ಮತ್ತು coins ಗಳಿಸಿ.",
+    "coachCard": "ಕೋಚ್",
+    "coachCta": "ಕೋಚ್ ಖಾತೆ ರಚಿಸಿ",
+    "coachSub": "ಸುರಕ್ಷಿತ scout previews ಮೂಲಕ ಭಾರತದ grassroots talent ಹುಡುಕಿ."
+  },
+  "nav": {
+    "home": "ಮುಖಪುಟ",
+    "drills": "ಡ್ರಿಲ್‌ಗಳು",
+    "leaderboard": "ಲೀಡರ್‌ಬೋರ್ಡ್",
+    "store": "ಸ್ಟೋರ್",
+    "wallet": "ವಾಲೆಟ್",
+    "assessment": "ಮೌಲ್ಯಮಾಪನ",
+    "coach": "ಕೋಚ್",
+    "scout": "ಸ್ಕೌಟ್",
+    "signup": "ಸೈನ್ ಅಪ್"
+  },
+  "onboarding": {
+    "playerTitle": "ಆಟಗಾರ onboarding",
+    "playerHeading": "ಮೊದಲ ದಿನದಿಂದಲೇ ಅಭಿವೃದ್ಧಿ ಹಾದಿ ನಿರ್ಮಿಸಿ.",
+    "fullName": "ಪೂರ್ಣ ಹೆಸರು",
+    "age": "ವಯಸ್ಸು",
+    "position": "ಮುಖ್ಯ ಸ್ಥಾನ",
+    "city": "ನಗರ",
+    "profilePhoto": "ಪ್ರೊಫೈಲ್ ಫೋಟೋ",
+    "uploadPhoto": "ಸ್ಪಷ್ಟ ಮುಖದ ಫೋಟೋ ಅಪ್‌ಲೋಡ್ ಮಾಡಿ",
+    "createProfile": "ಪ್ರೊಫೈಲ್ ರಚಿಸಿ",
+    "coachTitle": "ಕೋಚ್ onboarding",
+    "coachHeading": "ಕೋಚ್ ಮತ್ತು ಸ್ಕೌಟ್ workspace ರಚಿಸಿ.",
+    "aiffLicense": "AIFF Coaching License ID",
+    "certificatePhoto": "ಪ್ರಮಾಣಪತ್ರ ಫೋಟೋ",
+    "createCoach": "ಕೋಚ್ ಖಾತೆ ರಚಿಸಿ"
+  },
+  "home": {
+    "developmentSnapshot": "ಅಭಿವೃದ್ಧಿ ನೋಟ",
+    "momentum": "ವೇಗ ಕಟ್ಟುತ್ತಿದೆ.",
+    "ready": "ದೈನಂದಿನ ತರಬೇತಿ ಅಭ್ಯಾಸಗಳಿಗೆ ಸಿದ್ಧ.",
+    "habitStreak": "ಅಭ್ಯಾಸ streak",
+    "ballMastery": "ಬಾಲ್ mastery",
+    "physicalTesting": "ದೈಹಿಕ ಪರೀಕ್ಷೆ",
+    "hawkPoints": "ಹಾಕ್ points",
+    "coinBalance": "ಕಾಯಿನ್ balance",
+    "editProfile": "ಪ್ರೊಫೈಲ್ ಸಂಪಾದಿಸಿ"
+  },
+  "drills": {
+    "eyebrow": "ಡ್ರಿಲ್ ಲೈಬ್ರರಿ",
+    "title": "ಡ್ರಿಲ್ ಲೈಬ್ರರಿ",
+    "heading": "ಅಭ್ಯಾಸ ತರಬೇತಿ ಮಾಡಿ, points ಗಳಿಸಿ.",
+    "subtitle": "ಒಂದು ಚಿಕ್ಕ drill ಆಯ್ಕೆಮಾಡಿ, session ಮುಗಿಸಿ, daily development streak ಮುಂದುವರಿಸಿ.",
+    "showing": "{{count}} ಡ್ರಿಲ್‌ಗಳನ್ನು ತೋರಿಸಲಾಗುತ್ತಿದೆ",
+    "featuredToday": "ಇಂದಿನ ವಿಶೇಷ",
+    "startDrill": "ಆರಂಭಿಸಿ",
+    "comingSoon": "ಶೀಘ್ರದಲ್ಲೇ",
+    "categories": {
+      "all": "ಎಲ್ಲ",
+      "ball-mastery": "ಬಾಲ್ mastery",
+      "technical": "ಟೆಕ್ನಿಕಲ್",
+      "dribbling-agility": "ಡ್ರಿಬ್ಲಿಂಗ್",
+      "skill-moves": "ಸ್ಕಿಲ್ moves",
+      "passing-combinations": "ಪಾಸಿಂಗ್",
+      "finishing": "ಫಿನಿಶಿಂಗ್",
+      "fitness-sc": "ಫಿಟ್ನೆಸ್",
+      "goalkeeper": "ಗೋಲ್‌ಕೀಪರ್",
+      "elite-combinations": "ಎಲೈಟ್"
+    }
+  },
+  "assessment": {
+    "eyebrow": "ಮೌಲ್ಯಮಾಪನ ಕೇಂದ್ರ",
+    "title": "ಮೌಲ್ಯಮಾಪನ ಕೇಂದ್ರ",
+    "heading": "ನಿಮ್ಮ verified physical test ಗಳಿಸಿ.",
+    "subtitle": "90 ದಿನಗಳಲ್ಲಿ sessions, category range ಮತ್ತು streak ಮೂಲಕ ಅರ್ಹತೆ ಪಡೆಯಿರಿ.",
+    "centersLive": "5 ಕೇಂದ್ರಗಳು live",
+    "mapTitle": "ಭಾರತ ಕೇಂದ್ರ map",
+    "qualification": "90-ದಿನ ಅರ್ಹತೆ",
+    "unlocked": "ಮೌಲ್ಯಮಾಪನ unlock ಆಯಿತು",
+    "unlockQualification": "90-ದಿನ ಅರ್ಹತೆ unlock ಮಾಡಿ"
+  }
+}

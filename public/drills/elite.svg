@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 220" role="img" aria-label="Elite combination drill">
+  <rect width="360" height="220" rx="22" fill="#24153a"/>
+  <path d="M72 155c30-61 65-72 104-32s77 33 113-38" fill="none" stroke="#b84fff" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="79" cy="155" r="18" fill="#f7faf7"/>
+  <circle cx="180" cy="122" r="18" fill="#f2c94c"/>
+  <circle cx="289" cy="83" r="18" fill="#c6f04b"/>
+  <path d="m181 41 11 31 33 1-26 19 9 32-27-19-27 19 9-32-26-19 33-1 11-31Z" fill="#f2c94c"/>
+</svg>

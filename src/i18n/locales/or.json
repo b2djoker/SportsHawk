@@ -1,0 +1,102 @@
+{
+  "app": {
+    "name": "SportsHawk",
+    "tagline": "ଟ୍ରେନ୍ କରନ୍ତୁ · ସ୍କୋର କରନ୍ତୁ · ସ୍କାଉଟ୍ ହୁଅନ୍ତୁ",
+    "playerDevelopment": "ଗ୍ରାସରୁଟ୍ ଖେଳାଳି ବିକାଶ",
+    "coachWorkspace": "କୋଚ୍ ଏବଂ ସ୍କାଉଟ୍ କାର୍ଯ୍ୟସ୍ଥଳ"
+  },
+  "language": {
+    "select": "ଭାଷା ବାଛନ୍ତୁ",
+    "english": "ଇଂରାଜୀ",
+    "hindi": "ହିନ୍ଦୀ",
+    "bengali": "ବଙ୍ଗଳା",
+    "malayalam": "ମଲୟାଳମ୍",
+    "tamil": "ତାମିଲ୍",
+    "telugu": "ତେଲୁଗୁ",
+    "kannada": "କନ୍ନଡ",
+    "assamese": "ଆସାମିଆ",
+    "odia": "ଓଡ଼ିଆ"
+  },
+  "landing": {
+    "chooseType": "ଆକାଉଣ୍ଟ ପ୍ରକାର ବାଛନ୍ତୁ",
+    "title": "SportsHawk ରେ ଖେଳାଳି ଏବଂ କୋଚ୍ ପାଇଁ ଅଲଗା ସ୍ଥାନ ଅଛି।",
+    "subtitle": "ଏହି ଭୂମିକାଗୁଡିକର onboarding, home screen, navigation ଏବଂ access ଅଲଗା।",
+    "playerCard": "ଖେଳାଳି",
+    "playerCta": "ଖେଳାଳି ଆକାଉଣ୍ଟ ତିଆରି କରନ୍ତୁ",
+    "playerSub": "ଦିନକୁ ଟ୍ରେନ୍ କରନ୍ତୁ, drills upload କରନ୍ତୁ, points ଏବଂ coins ଆର୍ଜନ କରନ୍ତୁ।",
+    "coachCard": "କୋଚ୍",
+    "coachCta": "କୋଚ୍ ଆକାଉଣ୍ଟ ତିଆରି କରନ୍ତୁ",
+    "coachSub": "ସୁରକ୍ଷିତ scout previews ଦ୍ୱାରା ଭାରତର grassroots talent ଖୋଜନ୍ତୁ।"
+  },
+  "nav": {
+    "home": "ହୋମ୍",
+    "drills": "ଡ୍ରିଲ୍",
+    "leaderboard": "ଲିଡରବୋର୍ଡ",
+    "store": "ଷ୍ଟୋର୍",
+    "wallet": "ୱାଲେଟ୍",
+    "assessment": "ମୂଲ୍ୟାଙ୍କନ",
+    "coach": "କୋଚ୍",
+    "scout": "ସ୍କାଉଟ୍",
+    "signup": "ସାଇନ୍ ଅପ୍"
+  },
+  "onboarding": {
+    "playerTitle": "ଖେଳାଳି onboarding",
+    "playerHeading": "ପ୍ରଥମ ଦିନରୁ ବିକାଶ ପଥ ଗଢନ୍ତୁ।",
+    "fullName": "ପୂର୍ଣ୍ଣ ନାମ",
+    "age": "ବୟସ",
+    "position": "ମୁଖ୍ୟ ସ୍ଥାନ",
+    "city": "ସହର",
+    "profilePhoto": "ପ୍ରୋଫାଇଲ୍ ଫଟୋ",
+    "uploadPhoto": "ସ୍ପଷ୍ଟ ମୁହଁର ଫଟୋ upload କରନ୍ତୁ",
+    "createProfile": "ପ୍ରୋଫାଇଲ୍ ତିଆରି କରନ୍ତୁ",
+    "coachTitle": "କୋଚ୍ onboarding",
+    "coachHeading": "କୋଚ୍ ଏବଂ scout workspace ତିଆରି କରନ୍ତୁ।",
+    "aiffLicense": "AIFF Coaching License ID",
+    "certificatePhoto": "ସର୍ଟିଫିକେଟ୍ ଫଟୋ",
+    "createCoach": "କୋଚ୍ ଆକାଉଣ୍ଟ ତିଆରି କରନ୍ତୁ"
+  },
+  "home": {
+    "developmentSnapshot": "ବିକାଶ ସାରାଂଶ",
+    "momentum": "ଗତି ବଢୁଛି।",
+    "ready": "ଦୈନିକ training habits ପାଇଁ ପ୍ରସ୍ତୁତ।",
+    "habitStreak": "ଅଭ୍ୟାସ streak",
+    "ballMastery": "ବଲ୍ mastery",
+    "physicalTesting": "ଶାରୀରିକ ପରୀକ୍ଷା",
+    "hawkPoints": "ହକ୍ points",
+    "coinBalance": "coin balance",
+    "editProfile": "ପ୍ରୋଫାଇଲ୍ ସମ୍ପାଦନ କରନ୍ତୁ"
+  },
+  "drills": {
+    "eyebrow": "ଡ୍ରିଲ୍ ଲାଇବ୍ରେରୀ",
+    "title": "ଡ୍ରିଲ୍ ଲାଇବ୍ରେରୀ",
+    "heading": "ଅଭ୍ୟାସ ଟ୍ରେନ୍ କରନ୍ତୁ, points ଆର୍ଜନ କରନ୍ତୁ।",
+    "subtitle": "ଏକ ଛୋଟ drill ବାଛନ୍ତୁ, session ସମ୍ପୂର୍ଣ୍ଣ କରନ୍ତୁ, daily development streak ଚାଲୁ ରଖନ୍ତୁ।",
+    "showing": "{{count}} ଡ୍ରିଲ୍ ଦେଖାଯାଉଛି",
+    "featuredToday": "ଆଜିର ବିଶେଷ",
+    "startDrill": "ଆରମ୍ଭ କରନ୍ତୁ",
+    "comingSoon": "ଶୀଘ୍ର ଆସୁଛି",
+    "categories": {
+      "all": "ସବୁ",
+      "ball-mastery": "ବଲ୍ mastery",
+      "technical": "ଟେକ୍ନିକାଲ୍",
+      "dribbling-agility": "ଡ୍ରିବ୍ଲିଂ",
+      "skill-moves": "ସ୍କିଲ୍ moves",
+      "passing-combinations": "ପାସିଂ",
+      "finishing": "ଫିନିଶିଂ",
+      "fitness-sc": "ଫିଟନେସ୍",
+      "goalkeeper": "ଗୋଲକିପର୍",
+      "elite-combinations": "ଏଲିଟ୍"
+    }
+  },
+  "assessment": {
+    "eyebrow": "ମୂଲ୍ୟାଙ୍କନ କେନ୍ଦ୍ର",
+    "title": "ମୂଲ୍ୟାଙ୍କନ କେନ୍ଦ୍ର",
+    "heading": "ଆପଣଙ୍କ verified physical test ଆର୍ଜନ କରନ୍ତୁ।",
+    "subtitle": "90 ଦିନରେ sessions, category range ଏବଂ streak ଦ୍ୱାରା ଯୋଗ୍ୟତା ହାସଲ କରନ୍ତୁ।",
+    "centersLive": "5ଟି କେନ୍ଦ୍ର live",
+    "mapTitle": "ଭାରତ କେନ୍ଦ୍ର map",
+    "qualification": "90-ଦିନ ଯୋଗ୍ୟତା",
+    "unlocked": "ମୂଲ୍ୟାଙ୍କନ unlock",
+    "unlockQualification": "90-ଦିନ ଯୋଗ୍ୟତା unlock କରନ୍ତୁ"
+  }
+}

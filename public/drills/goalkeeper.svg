@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 220" role="img" aria-label="Goalkeeper drill">
+  <rect width="360" height="220" rx="22" fill="#11263a"/>
+  <rect x="74" y="52" width="212" height="120" rx="10" fill="none" stroke="#f7faf7" stroke-width="10"/>
+  <path d="M74 92h212M137 52v120M223 52v120" stroke="#f7faf7" stroke-width="6" opacity=".6"/>
+  <path d="M121 145c29-37 63-54 101-53" fill="none" stroke="#c6f04b" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="231" cy="91" r="21" fill="#f2c94c"/>
+</svg>

@@ -1,0 +1,102 @@
+{
+  "app": {
+    "name": "SportsHawk",
+    "tagline": "ট্রেন করুন · স্কোর করুন · স্কাউটেড হন",
+    "playerDevelopment": "গ্রাসরুট খেলোয়াড় উন্নয়ন",
+    "coachWorkspace": "কোচ ও স্কাউট কর্মক্ষেত্র"
+  },
+  "language": {
+    "select": "ভাষা নির্বাচন করুন",
+    "english": "ইংরেজি",
+    "hindi": "হিন্দি",
+    "bengali": "বাংলা",
+    "malayalam": "মালয়ালম",
+    "tamil": "তামিল",
+    "telugu": "তেলুগু",
+    "kannada": "কন্নড়",
+    "assamese": "অসমীয়া",
+    "odia": "ଓଡ଼ିଆ"
+  },
+  "landing": {
+    "chooseType": "অ্যাকাউন্ট ধরন নির্বাচন করুন",
+    "title": "SportsHawk-এ খেলোয়াড় ও কোচদের জন্য আলাদা জায়গা আছে।",
+    "subtitle": "এই আলাদা ভূমিকার জন্য আলাদা অনবোর্ডিং, হোম স্ক্রিন, নেভিগেশন ও অ্যাক্সেস আছে।",
+    "playerCard": "খেলোয়াড়",
+    "playerCta": "খেলোয়াড় অ্যাকাউন্ট তৈরি করুন",
+    "playerSub": "প্রতিদিন ট্রেন করুন, ড্রিল আপলোড করুন, পয়েন্ট ও কয়েন জিতুন।",
+    "coachCard": "কোচ",
+    "coachCta": "কোচ অ্যাকাউন্ট তৈরি করুন",
+    "coachSub": "নিরাপদ স্কাউট প্রিভিউ দিয়ে ভারতের গ্রাসরুট প্রতিভা খুঁজুন।"
+  },
+  "nav": {
+    "home": "হোম",
+    "drills": "ড্রিল",
+    "leaderboard": "লিডারবোর্ড",
+    "store": "স্টোর",
+    "wallet": "ওয়ালেট",
+    "assessment": "অ্যাসেসমেন্ট",
+    "coach": "কোচ",
+    "scout": "স্কাউট",
+    "signup": "সাইন আপ"
+  },
+  "onboarding": {
+    "playerTitle": "খেলোয়াড় অনবোর্ডিং",
+    "playerHeading": "প্রথম দিন থেকেই উন্নয়নের পথ তৈরি করুন।",
+    "fullName": "পূর্ণ নাম",
+    "age": "বয়স",
+    "position": "প্রধান পজিশন",
+    "city": "শহর",
+    "profilePhoto": "প্রোফাইল ছবি",
+    "uploadPhoto": "পরিষ্কার মুখের ছবি আপলোড করুন",
+    "createProfile": "প্রোফাইল তৈরি করুন",
+    "coachTitle": "কোচ অনবোর্ডিং",
+    "coachHeading": "কোচ ও স্কাউট কর্মক্ষেত্র তৈরি করুন।",
+    "aiffLicense": "AIFF Coaching License ID",
+    "certificatePhoto": "সার্টিফিকেট ছবি",
+    "createCoach": "কোচ অ্যাকাউন্ট তৈরি করুন"
+  },
+  "home": {
+    "developmentSnapshot": "উন্নয়নের ঝলক",
+    "momentum": "গতি তৈরি হচ্ছে।",
+    "ready": "দৈনিক ট্রেনিং অভ্যাসের জন্য প্রস্তুত।",
+    "habitStreak": "অভ্যাস স্ট্রিক",
+    "ballMastery": "বল মাস্টারি",
+    "physicalTesting": "ফিজিক্যাল টেস্টিং",
+    "hawkPoints": "হক পয়েন্ট",
+    "coinBalance": "কয়েন ব্যালান্স",
+    "editProfile": "প্রোফাইল সম্পাদনা করুন"
+  },
+  "drills": {
+    "eyebrow": "ড্রিল লাইব্রেরি",
+    "title": "ড্রিল লাইব্রেরি",
+    "heading": "অভ্যাস ট্রেন করুন, পয়েন্ট জিতুন।",
+    "subtitle": "একটি ছোট ড্রিল বেছে নিন, সেশন শেষ করুন, এবং দৈনিক উন্নয়ন চালিয়ে যান।",
+    "showing": "{{count}} ড্রিল দেখানো হচ্ছে",
+    "featuredToday": "আজকের ফিচার্ড",
+    "startDrill": "শুরু করুন",
+    "comingSoon": "শীঘ্রই আসছে",
+    "categories": {
+      "all": "সব",
+      "ball-mastery": "বল মাস্টারি",
+      "technical": "টেকনিক্যাল",
+      "dribbling-agility": "ড্রিবলিং",
+      "skill-moves": "স্কিল মুভস",
+      "passing-combinations": "পাসিং",
+      "finishing": "ফিনিশিং",
+      "fitness-sc": "ফিটনেস",
+      "goalkeeper": "গোলকিপার",
+      "elite-combinations": "এলিট"
+    }
+  },
+  "assessment": {
+    "eyebrow": "অ্যাসেসমেন্ট সেন্টার",
+    "title": "অ্যাসেসমেন্ট সেন্টার",
+    "heading": "আপনার যাচাইকৃত ফিজিক্যাল টেস্ট অর্জন করুন।",
+    "subtitle": "৯০ দিনের মধ্যে যথেষ্ট সেশন, বিভাগ বৈচিত্র্য ও ধারাবাহিক স্ট্রিক দিয়ে যোগ্যতা অর্জন করুন।",
+    "centersLive": "৫টি সেন্টার লাইভ",
+    "mapTitle": "ভারত সেন্টার মানচিত্র",
+    "qualification": "৯০ দিনের যোগ্যতা",
+    "unlocked": "অ্যাসেসমেন্ট আনলক",
+    "unlockQualification": "৯০ দিনের যোগ্যতা আনলক করুন"
+  }
+}

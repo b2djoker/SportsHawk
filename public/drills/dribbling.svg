@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 220" role="img" aria-label="Dribbling agility drill">
+  <rect width="360" height="220" rx="22" fill="#2a1a0a"/>
+  <path d="M62 166C96 66 142 186 178 86s82 22 120-38" fill="none" stroke="#c6f04b" stroke-width="9" stroke-linecap="round"/>
+  <g fill="#f2c94c">
+    <path d="M78 69h26l12 58H66l12-58Z"/>
+    <path d="M167 115h26l12 58h-50l12-58Z"/>
+    <path d="M260 58h26l12 58h-50l12-58Z"/>
+  </g>
+  <circle cx="129" cy="150" r="16" fill="#f7faf7"/>
+</svg>

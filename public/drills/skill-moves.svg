@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 220" role="img" aria-label="Skill move drill">
+  <rect width="360" height="220" rx="22" fill="#26143f"/>
+  <path d="M91 142c42-70 126 28 178-47" fill="none" stroke="#f2c94c" stroke-width="10" stroke-linecap="round"/>
+  <path d="m259 77 15 18-22 7" fill="none" stroke="#f2c94c" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="102" cy="143" r="22" fill="#f7faf7"/>
+  <path d="M84 55h52l-18 76H66L84 55Z" fill="#c6f04b"/>
+  <path d="M240 134h48l16 42h-80l16-42Z" fill="#c6f04b"/>
+</svg>

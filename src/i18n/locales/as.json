@@ -1,0 +1,102 @@
+{
+  "app": {
+    "name": "SportsHawk",
+    "tagline": "ট্ৰেইন কৰক · স্ক'ৰ কৰক · স্কাউট হওক",
+    "playerDevelopment": "গ্ৰাছৰূট খেলুৱৈ বিকাশ",
+    "coachWorkspace": "কোচ আৰু স্কাউট কৰ্মক্ষেত্ৰ"
+  },
+  "language": {
+    "select": "ভাষা বাছনি কৰক",
+    "english": "ইংৰাজী",
+    "hindi": "হিন্দী",
+    "bengali": "বাংলা",
+    "malayalam": "মালয়ালম",
+    "tamil": "তামিল",
+    "telugu": "তেলুগু",
+    "kannada": "কন্নড়",
+    "assamese": "অসমীয়া",
+    "odia": "ওଡ଼ିଆ"
+  },
+  "landing": {
+    "chooseType": "একাউণ্ট ধৰণ বাছনি কৰক",
+    "title": "SportsHawk-ত খেলুৱৈ আৰু কোচৰ বাবে পৃথক স্থান আছে।",
+    "subtitle": "এই ভূমিকা দুটাৰ onboarding, home screen, navigation আৰু access পৃথক।",
+    "playerCard": "খেলুৱৈ",
+    "playerCta": "খেলুৱৈ একাউণ্ট সৃষ্টি কৰক",
+    "playerSub": "প্ৰতিদিনে ট্ৰেইন কৰক, drills upload কৰক, points আৰু coins উপাৰ্জন কৰক।",
+    "coachCard": "কোচ",
+    "coachCta": "কোচ একাউণ্ট সৃষ্টি কৰক",
+    "coachSub": "সুৰক্ষিত scout previews ৰে ভাৰতৰ grassroots talent বিচাৰক।"
+  },
+  "nav": {
+    "home": "হোম",
+    "drills": "ড্ৰিল",
+    "leaderboard": "লিডাৰবৰ্ড",
+    "store": "ষ্ট'ৰ",
+    "wallet": "ৱালেট",
+    "assessment": "মূল্যায়ন",
+    "coach": "কোচ",
+    "scout": "স্কাউট",
+    "signup": "ছাইন আপ"
+  },
+  "onboarding": {
+    "playerTitle": "খেলুৱৈ onboarding",
+    "playerHeading": "প্ৰথম দিনৰ পৰাই বিকাশৰ পথ গঢ়ক।",
+    "fullName": "সম্পূৰ্ণ নাম",
+    "age": "বয়স",
+    "position": "প্ৰধান পজিচন",
+    "city": "চহৰ",
+    "profilePhoto": "প্ৰফাইল ফটো",
+    "uploadPhoto": "স্পষ্ট মুখৰ ফটো আপলোড কৰক",
+    "createProfile": "প্ৰফাইল সৃষ্টি কৰক",
+    "coachTitle": "কোচ onboarding",
+    "coachHeading": "কোচ আৰু scout workspace সৃষ্টি কৰক।",
+    "aiffLicense": "AIFF Coaching License ID",
+    "certificatePhoto": "চাৰ্টিফিকেট ফটো",
+    "createCoach": "কোচ একাউণ্ট সৃষ্টি কৰক"
+  },
+  "home": {
+    "developmentSnapshot": "বিকাশৰ সাৰাংশ",
+    "momentum": "গতি বৃদ্ধি পাইছে।",
+    "ready": "দৈনিক training habits ৰ বাবে সাজু।",
+    "habitStreak": "অভ্যাস streak",
+    "ballMastery": "বল mastery",
+    "physicalTesting": "শাৰীৰিক পৰীক্ষা",
+    "hawkPoints": "হক points",
+    "coinBalance": "coin balance",
+    "editProfile": "প্ৰফাইল সম্পাদনা কৰক"
+  },
+  "drills": {
+    "eyebrow": "ড্ৰিল লাইব্ৰেৰী",
+    "title": "ড্ৰিল লাইব্ৰেৰী",
+    "heading": "অভ্যাস ট্ৰেইন কৰক, points উপাৰ্জন কৰক।",
+    "subtitle": "এটা সৰু drill বাছনি কৰক, session সম্পূৰ্ণ কৰক, দৈনিক বিকাশ চলাই যাওক।",
+    "showing": "{{count}} ড্ৰিল দেখুওৱা হৈছে",
+    "featuredToday": "আজিৰ বিশেষ",
+    "startDrill": "আৰম্ভ কৰক",
+    "comingSoon": "সোনকালে আহিব",
+    "categories": {
+      "all": "সকলো",
+      "ball-mastery": "বল mastery",
+      "technical": "টেকনিকেল",
+      "dribbling-agility": "ড্ৰিবলিং",
+      "skill-moves": "স্কিল moves",
+      "passing-combinations": "পাছিং",
+      "finishing": "ফিনিশিং",
+      "fitness-sc": "ফিটনেছ",
+      "goalkeeper": "গোলকীপাৰ",
+      "elite-combinations": "এলিট"
+    }
+  },
+  "assessment": {
+    "eyebrow": "মূল্যায়ন কেন্দ্ৰ",
+    "title": "মূল্যায়ন কেন্দ্ৰ",
+    "heading": "আপোনাৰ verified physical test অৰ্জন কৰক।",
+    "subtitle": "90 দিনত sessions, category range আৰু streak ৰে যোগ্যতা অৰ্জন কৰক।",
+    "centersLive": "5টা কেন্দ্ৰ live",
+    "mapTitle": "ভাৰত কেন্দ্ৰ map",
+    "qualification": "90-দিনীয়া যোগ্যতা",
+    "unlocked": "মূল্যায়ন unlock",
+    "unlockQualification": "90-দিনীয়া যোগ্যতা unlock কৰক"
+  }
+}

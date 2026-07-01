@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 220" role="img" aria-label="Training apparel">
+  <rect width="320" height="220" rx="22" fill="#163626"/>
+  <circle cx="258" cy="42" r="34" fill="#f2c94c" opacity=".9"/>
+  <path d="M101 55 68 77l-31-26 34-38 42 18h94l42-18 34 38-31 26-33-22v125H101V55Z" fill="#f7faf7"/>
+  <path d="M124 31c3 23 18 35 36 35s33-12 36-35" fill="none" stroke="#163626" stroke-width="8" stroke-linecap="round"/>
+  <rect x="128" y="97" width="64" height="15" rx="7.5" fill="#163626"/>
+  <rect x="112" y="126" width="96" height="11" rx="5.5" fill="#c6f04b"/>
+  <text x="160" y="174" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="800" fill="#163626">SPORTSHAWK</text>
+</svg>

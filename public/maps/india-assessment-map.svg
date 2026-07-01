@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 520" role="img" aria-label="India map with SportsHawk assessment centers marked">
+  <rect width="520" height="520" rx="24" fill="#ecfdf3"/>
+  <path d="M249 39c24 18 51 24 80 26 19 1 25 17 17 34-10 21 7 43 29 47 26 5 34 34 17 55-17 22-12 43 13 57 31 18 26 58-7 70-25 9-42 25-48 51-6 29-33 44-59 29-18-10-33-8-42 12-12 27-45 30-61 6-15-23-30-43-56-53-26-11-31-42-11-62 16-16 16-39-1-55-23-21-19-58 11-69 22-8 33-28 28-51-5-25 11-47 37-48 24-1 36-13 39-37 2-15 7-26 14-33Z" fill="#ffffff" stroke="#117a4f" stroke-width="5"/>
+  <path d="M217 418c11 31 30 52 56 65 11-32 6-59-14-82" fill="#ffffff" stroke="#117a4f" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M151 245c44-18 92-21 142-8 56 15 95 44 118 88" fill="none" stroke="#c6f04b" stroke-width="7" stroke-linecap="round" opacity=".8"/>
+  <g font-family="Arial, sans-serif" font-size="15" font-weight="800" fill="#10291d">
+    <g transform="translate(264 112)">
+      <circle r="12" fill="#117a4f" stroke="#fff" stroke-width="5"/>
+      <text x="18" y="5">Delhi</text>
+    </g>
+    <g transform="translate(173 298)">
+      <circle r="12" fill="#117a4f" stroke="#fff" stroke-width="5"/>
+      <text x="-72" y="5">Mumbai</text>
+    </g>
+    <g transform="translate(247 397)">
+      <circle r="12" fill="#117a4f" stroke="#fff" stroke-width="5"/>
+      <text x="18" y="5">Bengaluru</text>
+    </g>
+    <g transform="translate(391 246)">
+      <circle r="12" fill="#117a4f" stroke="#fff" stroke-width="5"/>
+      <text x="18" y="5">Kolkata</text>
+    </g>
+    <g transform="translate(352 305)">
+      <circle r="12" fill="#f2c94c" stroke="#fff" stroke-width="5"/>
+      <text x="18" y="5">Bhubaneswar</text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 220" role="img" aria-label="Nutrition products">
+  <rect width="320" height="220" rx="22" fill="#2a1a0a"/>
+  <rect x="102" y="57" width="116" height="118" rx="18" fill="#f7faf7"/>
+  <path d="M123 57h74l-8-28h-58l-8 28Z" fill="#c6f04b"/>
+  <rect x="121" y="91" width="78" height="44" rx="10" fill="#f2c94c"/>
+  <text x="160" y="118" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="800" fill="#2a1a0a">FUEL</text>
+  <circle cx="234" cy="62" r="22" fill="#c6f04b"/>
+  <circle cx="77" cy="156" r="25" fill="#f2c94c"/>
+</svg>

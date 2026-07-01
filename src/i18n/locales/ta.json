@@ -1,0 +1,102 @@
+{
+  "app": {
+    "name": "SportsHawk",
+    "tagline": "பயிற்சி செய் · மதிப்பெண் பெறு · ஸ்கவுட் ஆகு",
+    "playerDevelopment": "கிராஸ்ரூட் வீரர் வளர்ச்சி",
+    "coachWorkspace": "பயிற்சியாளர் மற்றும் ஸ்கவுட் பணிமனை"
+  },
+  "language": {
+    "select": "மொழியைத் தேர்ந்தெடுக்கவும்",
+    "english": "ஆங்கிலம்",
+    "hindi": "இந்தி",
+    "bengali": "பெங்காலி",
+    "malayalam": "மலையாளம்",
+    "tamil": "தமிழ்",
+    "telugu": "தெலுங்கு",
+    "kannada": "கன்னடம்",
+    "assamese": "அஸ்ஸாமீஸ்",
+    "odia": "ஒடியா"
+  },
+  "landing": {
+    "chooseType": "கணக்கு வகையைத் தேர்ந்தெடுக்கவும்",
+    "title": "SportsHawk-ல் வீரர்களுக்கும் பயிற்சியாளர்களுக்கும் தனித்தனி இடங்கள் உள்ளன.",
+    "subtitle": "இவை தனித்தனி கணக்கு பாத்திரங்கள்; ஒவ்வொன்றுக்கும் தனி onboarding, home screen, navigation, access உள்ளது.",
+    "playerCard": "வீரர்",
+    "playerCta": "வீரர் கணக்கு உருவாக்கு",
+    "playerSub": "தினமும் பயிற்சி செய், drills பதிவேற்று, points மற்றும் coins சம்பாதி.",
+    "coachCard": "பயிற்சியாளர்",
+    "coachCta": "பயிற்சியாளர் கணக்கு உருவாக்கு",
+    "coachSub": "பாதுகாக்கப்பட்ட scout previews மூலம் இந்திய grassroots திறமைகளை கண்டுபிடி."
+  },
+  "nav": {
+    "home": "முகப்பு",
+    "drills": "பயிற்சிகள்",
+    "leaderboard": "தரவரிசை",
+    "store": "ஸ்டோர்",
+    "wallet": "வாலெட்",
+    "assessment": "மதிப்பீடு",
+    "coach": "பயிற்சியாளர்",
+    "scout": "ஸ்கவுட்",
+    "signup": "சைன் அப்"
+  },
+  "onboarding": {
+    "playerTitle": "வீரர் onboarding",
+    "playerHeading": "முதல் நாளிலிருந்தே வளர்ச்சி பாதையை உருவாக்குங்கள்.",
+    "fullName": "முழு பெயர்",
+    "age": "வயது",
+    "position": "முதன்மை நிலை",
+    "city": "நகரம்",
+    "profilePhoto": "சுயவிவர படம்",
+    "uploadPhoto": "தெளிவான முகப்படத்தை பதிவேற்றவும்",
+    "createProfile": "சுயவிவரம் உருவாக்கு",
+    "coachTitle": "பயிற்சியாளர் onboarding",
+    "coachHeading": "பயிற்சியாளர் மற்றும் scout workspace உருவாக்கு.",
+    "aiffLicense": "AIFF Coaching License ID",
+    "certificatePhoto": "சான்றிதழ் படம்",
+    "createCoach": "பயிற்சியாளர் கணக்கு உருவாக்கு"
+  },
+  "home": {
+    "developmentSnapshot": "வளர்ச்சி சுருக்கம்",
+    "momentum": "முன்னேற்றம் உருவாகிறது.",
+    "ready": "தினசரி பயிற்சி பழக்கங்களுக்கு தயாராக உள்ளது.",
+    "habitStreak": "பழக்க தொடர்ச்சி",
+    "ballMastery": "பந்து திறன்",
+    "physicalTesting": "உடல் பரிசோதனை",
+    "hawkPoints": "ஹாக் புள்ளிகள்",
+    "coinBalance": "நாணய இருப்பு",
+    "editProfile": "சுயவிவரம் திருத்து"
+  },
+  "drills": {
+    "eyebrow": "பயிற்சி நூலகம்",
+    "title": "பயிற்சி நூலகம்",
+    "heading": "பழக்கத்தை பயிற்சி செய், புள்ளிகளை சம்பாதி.",
+    "subtitle": "சிறிய drill ஒன்றைத் தேர்ந்தெடுத்து session முடித்து தினசரி வளர்ச்சியை தொடருங்கள்.",
+    "showing": "{{count}} பயிற்சிகள் காண்பிக்கப்படுகின்றன",
+    "featuredToday": "இன்றைய சிறப்பு",
+    "startDrill": "தொடங்கு",
+    "comingSoon": "விரைவில்",
+    "categories": {
+      "all": "அனைத்தும்",
+      "ball-mastery": "பந்து திறன்",
+      "technical": "டெக்னிக்கல்",
+      "dribbling-agility": "டிரிப்ளிங்",
+      "skill-moves": "ஸ்கில் மூவ்ஸ்",
+      "passing-combinations": "பாஸிங்",
+      "finishing": "ஃபினிஷிங்",
+      "fitness-sc": "ஃபிட்னஸ்",
+      "goalkeeper": "கோல்கீப்பர்",
+      "elite-combinations": "எலீட்"
+    }
+  },
+  "assessment": {
+    "eyebrow": "மதிப்பீட்டு மையம்",
+    "title": "மதிப்பீட்டு மையம்",
+    "heading": "உங்கள் சரிபார்க்கப்பட்ட உடல் பரிசோதனையைப் பெறுங்கள்.",
+    "subtitle": "90 நாட்களில் session, category range, streak மூலம் தகுதி பெறுங்கள்.",
+    "centersLive": "5 மையங்கள் செயலில்",
+    "mapTitle": "இந்தியா மைய வரைபடம்",
+    "qualification": "90 நாள் தகுதி",
+    "unlocked": "மதிப்பீடு திறக்கப்பட்டது",
+    "unlockQualification": "90 நாள் தகுதியைத் திற"
+  }
+}

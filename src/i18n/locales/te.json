@@ -1,0 +1,102 @@
+{
+  "app": {
+    "name": "SportsHawk",
+    "tagline": "ట్రైన్ చేయండి · స్కోర్ చేయండి · స్కౌట్ అవ్వండి",
+    "playerDevelopment": "గ్రాస్‌రూట్స్ ప్లేయర్ అభివృద్ధి",
+    "coachWorkspace": "కోచ్ మరియు స్కౌట్ వర్క్‌స్పేస్"
+  },
+  "language": {
+    "select": "భాషను ఎంచుకోండి",
+    "english": "ఇంగ్లీష్",
+    "hindi": "హిందీ",
+    "bengali": "బెంగాళీ",
+    "malayalam": "మలయాళం",
+    "tamil": "తమిళం",
+    "telugu": "తెలుగు",
+    "kannada": "కన్నడ",
+    "assamese": "అస్సామీ",
+    "odia": "ఒడియా"
+  },
+  "landing": {
+    "chooseType": "ఖాతా రకం ఎంచుకోండి",
+    "title": "SportsHawk లో ప్లేయర్లకు, కోచ్‌లకు వేర్వేరు స్థలాలు ఉన్నాయి.",
+    "subtitle": "ఈ పాత్రలకు వేర్వేరు onboarding, home screens, navigation మరియు access ఉంటుంది.",
+    "playerCard": "ప్లేయర్",
+    "playerCta": "ప్లేయర్ ఖాతా సృష్టించండి",
+    "playerSub": "రోజూ ట్రైన్ చేయండి, drills అప్‌లోడ్ చేయండి, points మరియు coins సంపాదించండి.",
+    "coachCard": "కోచ్",
+    "coachCta": "కోచ్ ఖాతా సృష్టించండి",
+    "coachSub": "సురక్షిత scout previews ద్వారా భారత grassroots talent కనుగొనండి."
+  },
+  "nav": {
+    "home": "హోమ్",
+    "drills": "డ్రిల్స్",
+    "leaderboard": "లీడర్‌బోర్డ్",
+    "store": "స్టోర్",
+    "wallet": "వాలెట్",
+    "assessment": "అసెస్‌మెంట్",
+    "coach": "కోచ్",
+    "scout": "స్కౌట్",
+    "signup": "సైన్ అప్"
+  },
+  "onboarding": {
+    "playerTitle": "ప్లేయర్ onboarding",
+    "playerHeading": "మొదటి రోజు నుంచే అభివృద్ధి మార్గం నిర్మించండి.",
+    "fullName": "పూర్తి పేరు",
+    "age": "వయస్సు",
+    "position": "ప్రధాన స్థానం",
+    "city": "నగరం",
+    "profilePhoto": "ప్రొఫైల్ ఫోటో",
+    "uploadPhoto": "స్పష్టమైన ముఖ ఫోటో అప్‌లోడ్ చేయండి",
+    "createProfile": "ప్రొఫైల్ సృష్టించండి",
+    "coachTitle": "కోచ్ onboarding",
+    "coachHeading": "కోచ్ మరియు స్కౌట్ workspace సృష్టించండి.",
+    "aiffLicense": "AIFF Coaching License ID",
+    "certificatePhoto": "సర్టిఫికెట్ ఫోటో",
+    "createCoach": "కోచ్ ఖాతా సృష్టించండి"
+  },
+  "home": {
+    "developmentSnapshot": "అభివృద్ధి స్నాప్‌షాట్",
+    "momentum": "మొమెంటం పెరుగుతోంది.",
+    "ready": "రోజువారీ training habits కోసం సిద్ధం.",
+    "habitStreak": "హ్యాబిట్ స్ట్రీక్",
+    "ballMastery": "బాల్ మాస్టరీ",
+    "physicalTesting": "ఫిజికల్ టెస్టింగ్",
+    "hawkPoints": "హాక్ పాయింట్స్",
+    "coinBalance": "కాయిన్ బ్యాలెన్స్",
+    "editProfile": "ప్రొఫైల్ సవరించండి"
+  },
+  "drills": {
+    "eyebrow": "డ్రిల్ లైబ్రరీ",
+    "title": "డ్రిల్ లైబ్రరీ",
+    "heading": "హ్యాబిట్ ట్రైన్ చేయండి, పాయింట్స్ సంపాదించండి.",
+    "subtitle": "ఒక చిన్న drill ఎంచుకుని session పూర్తి చేసి daily development streak కొనసాగించండి.",
+    "showing": "{{count}} డ్రిల్స్ చూపిస్తున్నాం",
+    "featuredToday": "ఈరోజు ఫీచర్డ్",
+    "startDrill": "ప్రారంభించండి",
+    "comingSoon": "త్వరలో",
+    "categories": {
+      "all": "అన్నీ",
+      "ball-mastery": "బాల్ మాస్టరీ",
+      "technical": "టెక్నికల్",
+      "dribbling-agility": "డ్రిబ్లింగ్",
+      "skill-moves": "స్కిల్ మూవ్స్",
+      "passing-combinations": "పాసింగ్",
+      "finishing": "ఫినిషింగ్",
+      "fitness-sc": "ఫిట్నెస్",
+      "goalkeeper": "గోల్‌కీపర్",
+      "elite-combinations": "ఎలైట్"
+    }
+  },
+  "assessment": {
+    "eyebrow": "అసెస్‌మెంట్ సెంటర్",
+    "title": "అసెస్‌మెంట్ సెంటర్",
+    "heading": "మీ verified physical test సంపాదించండి.",
+    "subtitle": "90 రోజులలో sessions, category range, streak తో qualify అవ్వండి.",
+    "centersLive": "5 సెంటర్లు live",
+    "mapTitle": "ఇండియా సెంటర్ మ్యాప్",
+    "qualification": "90-రోజుల అర్హత",
+    "unlocked": "అసెస్‌మెంట్ unlock అయ్యింది",
+    "unlockQualification": "90-రోజుల అర్హత unlock చేయండి"
+  }
+}

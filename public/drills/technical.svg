@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 220" role="img" aria-label="Technical passing drill">
+  <rect width="360" height="220" rx="22" fill="#172b37"/>
+  <rect x="225" y="35" width="68" height="150" rx="10" fill="#f7faf7"/>
+  <path d="M225 75h68M225 115h68M225 155h68" stroke="#172b37" stroke-width="6"/>
+  <path d="M70 155c32-44 76-58 132-42" fill="none" stroke="#c6f04b" stroke-width="9" stroke-linecap="round" stroke-dasharray="14 12"/>
+  <circle cx="82" cy="157" r="22" fill="#f2c94c"/>
+  <circle cx="199" cy="112" r="16" fill="#f7faf7"/>
+</svg>

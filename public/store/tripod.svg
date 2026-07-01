@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 220" role="img" aria-label="Smartphone tripod">
+  <rect width="320" height="220" rx="22" fill="#153426"/>
+  <rect x="123" y="28" width="74" height="108" rx="15" fill="#f7faf7"/>
+  <rect x="136" y="44" width="48" height="74" rx="8" fill="#111827"/>
+  <circle cx="160" cy="126" r="5" fill="#111827"/>
+  <path d="M160 136v28M160 164l-54 35M160 164l54 35M160 164v42" stroke="#f2c94c" stroke-width="9" stroke-linecap="round"/>
+  <path d="M103 75h114" stroke="#c6f04b" stroke-width="8" stroke-linecap="round"/>
+</svg>

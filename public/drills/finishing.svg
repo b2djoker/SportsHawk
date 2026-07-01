@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 220" role="img" aria-label="Finishing drill">
+  <rect width="360" height="220" rx="22" fill="#301a16"/>
+  <rect x="210" y="48" width="95" height="104" rx="8" fill="#f7faf7"/>
+  <rect x="226" y="64" width="63" height="72" rx="4" fill="#301a16"/>
+  <circle cx="257" cy="100" r="18" fill="#f2c94c"/>
+  <path d="M68 160c58-70 112-89 176-62" fill="none" stroke="#c6f04b" stroke-width="9" stroke-linecap="round" stroke-dasharray="12 12"/>
+  <circle cx="75" cy="161" r="19" fill="#f7faf7"/>
+</svg>

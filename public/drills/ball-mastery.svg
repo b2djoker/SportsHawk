@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 220" role="img" aria-label="Ball mastery drill">
+  <rect width="360" height="220" rx="22" fill="#10291d"/>
+  <circle cx="64" cy="52" r="24" fill="#f2c94c"/>
+  <path d="M77 169c38-38 74-44 112-18s70 24 98-10" fill="none" stroke="#c6f04b" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="181" cy="104" r="46" fill="#f7faf7"/>
+  <path d="m181 75 25 18-10 30h-30l-10-30 25-18Z" fill="#111827"/>
+  <path d="M136 108 156 93M224 108l-18-15M166 123l-14 25M196 123l13 25M181 75V55" stroke="#111827" stroke-width="6" stroke-linecap="round"/>
+</svg>
